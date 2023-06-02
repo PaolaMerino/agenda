@@ -1,0 +1,27 @@
+1- Que me mande un correo en la fecha y hora que está agendado el evento sería al buzón de entrada de mi correo
+
+La dirección de correo del que necesito que se  envien los correos será: agendawebtpis@gmail.com
+Al que necesito que se envien los correos desde la agenda será un unico correo. (especifico el que estaré usando, 
+por si  sirve de algo paolacarolinamerino415@gmail.com)
+
+Asunto del correo: NOTIFICACIÓN: (El nombre de mi evento)
+Cuerpo del mensaje: 
+Hola Paola
+Este es un recordatorio de que tendrás un evento muy pronto.
+(Nombre del evento)
+(Descripción de evento)
+Cuando: (Start del evento) 
+
+Ejemplo:
+
+NOTIFICACION: Empezar periodo de prueba
+
+Hola Paola
+Este es un recordatorio de que tendrás un evento muy pronto.
+
+Empezar periodo de prueba
+Trabajar en el proyecto 
+Cuando: 2023-06-08 14:00:00
+
+
+2- Si ya existe un evento a determinado dia y hora, que no permita agendar otro ese mismo día a esa misma hora (no eventos duplicados)
